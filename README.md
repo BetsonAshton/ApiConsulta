@@ -1,4 +1,4 @@
-# Projeto AspNet API para agendar uma consulta e verificar e também fazer cadastro de paciente e médico
+# Projeto AspNet API para agendar uma consulta e verificar/ fazer cadastro de paciente e médico
 * AspNet 7 API
 * Microserviços REST
 * DDD(Domain-Driven Design)
